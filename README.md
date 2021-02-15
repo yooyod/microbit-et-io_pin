@@ -1,5 +1,29 @@
+# Extention ET-DSP I2C LED 16x8 
 
 > Open this page at [https://yooyod.github.io/microbit-et-io_pin/](https://yooyod.github.io/microbit-et-io_pin/)
+
+
+## Usage
+
+### ET-IO Pin
+
+```blocks
+
+})
+```
+
+## Example
+
+ Demo 
+
+``` blocks 
+
+
+
+
+})
+```
+
 
 ## Use as Extension
 
@@ -18,12 +42,6 @@ To edit this repository in MakeCode.
 * click on **Import** then click on **Import URL**
 * paste **https://github.com/yooyod/microbit-et-io_pin** and click import
 
-## Blocks preview
-
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
-
-![A rendered view of the blocks](https://github.com/yooyod/microbit-et-io_pin/raw/master/.github/makecode/blocks.png)
 
 #### Metadata (used for search, rendering)
 

@@ -1,6 +1,6 @@
 {
     "name": "ET-IO_Pin",
-    "description": "",
+    "description": "Extention ET-IO Pin Add P19,P20",
     "dependencies": {
         "core": "*",
         "radio": "*",
