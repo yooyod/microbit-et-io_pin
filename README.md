@@ -1,4 +1,4 @@
-# Extention ET-DSP I2C LED 16x8 
+# Extention ET-IO PIN
 
 > Open this page at [https://yooyod.github.io/microbit-et-io_pin/](https://yooyod.github.io/microbit-et-io_pin/)
 
